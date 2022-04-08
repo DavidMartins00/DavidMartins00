@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Martins</h1>
-<h3 align="center">Iam a full-stack web developer</h3>
+<h3 align="center">I'am a full-stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidmartins00&label=Profile%20views&color=0e75b6&style=flat" alt="davidmartins00" /> </p>
 
