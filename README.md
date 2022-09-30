@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=davidmartins00&label=Profile%20views&color=0e75b6&style=flat" alt="davidmartins00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmartins00" alt="davidmartins00" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmartins00"&theme=darkhub alt="davidmartins00" /></a></p>
 
 - 🔭 I’m currently working on [React and Flask](https://github.com/DavidMartins00/Flask-React)
 
